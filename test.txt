@@ -1,2 +1,0 @@
-Algorithm Notes
-Big(O)
