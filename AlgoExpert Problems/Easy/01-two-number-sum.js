@@ -1,7 +1,7 @@
 // Problem Title: Two Number Sum
 // Problem Url: https://www.algoexpert.io/questions/two-number-sum
 // Time Complexity: O(n)
-// Space Complexity: O(1)
+// Space Complexity: O(n)
 
 function twoNumberSum(array, targetSum) {
     let mySet = new Set();
